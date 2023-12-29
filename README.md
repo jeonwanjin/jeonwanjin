@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Hello.&color=gradient)
 <BR>
 <BR>
-## 🔨Skills🔨
+## Skills
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -22,20 +22,27 @@
     </div>
 </div>
 
+## Contact
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:jwj1212121@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
+
 <BR>
 <BR>
 <BR>
 <BR>
-개인프로젝트 포트폴리오 사이트: <a>https://jeonwanjin.github.io/portfolio/</a>
+개인프로젝트 포트폴리오 사이트: <a href=https://jeonwanjin.github.io/portfolio/>https://jeonwanjin.github.io/portfolio/</a>
 <BR>
 <BR>
-팀프로젝트 경복궁축제 사이트: <a>https://jeonwanjin.github.io/Gyeongbokgung/</a>
+팀프로젝트 경복궁축제 사이트: <a href=https://jeonwanjin.github.io/Gyeongbokgung/>https://jeonwanjin.github.io/Gyeongbokgung/</a>
 <BR>
 <BR>
-팀프로젝트 E-BOOK 사이트: <a>https://jeonwanjin.github.io/RepublicOfFreeCoding/</a>
+팀프로젝트 E-BOOK 사이트: <a href=https://jeonwanjin.github.io/RepublicOfFreeCoding/>https://jeonwanjin.github.io/RepublicOfFreeCoding/</a>
 <BR>
 <BR>
-개인프로젝트 경복궁축제 사이트: <a>https://jeonwanjin.github.io/Gyeongbokgung/</a>
+개인프로젝트 광주CC 사이트: <a href=https://jeonwanjin.github.io/gwangjuCC/>https://jeonwanjin.github.io/gwangjuCC/</a>
 <BR>
 <BR>
 <BR>
